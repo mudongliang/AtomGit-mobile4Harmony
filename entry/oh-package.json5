@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "AtomGit entry module",
+  "main": "",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {}
+}
